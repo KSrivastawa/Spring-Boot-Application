@@ -9,6 +9,11 @@ In this Application, CRUD operations Like Create, Update, Delete, Get details ca
 End Points created:
 - Base Url: http://localhost:8899/student/api/
 
-
+Rest all end points are: 
+- save
+- update/{student_id}
+- delete/{student_id}
+- get/{student_id}
+- get/all 
 
 
